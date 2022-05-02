@@ -24,6 +24,8 @@ is 83 degrees Fahrenheit.
 - The average temperature for days in June is about 75 degrees Fahrenheit, while
 December's average temperature was about 71 degrees Fahrenheit.
 
+![June Temps](https://user-images.githubusercontent.com/99292945/166269043-f36fd331-9de0-4e62-ac64-f4b6552833a9.png)
+![Dec Temps](https://user-images.githubusercontent.com/99292945/166269054-b634ba4b-565c-41a9-8ae4-19b0c265537e.png)
 
 ## Summary
 
@@ -33,4 +35,6 @@ a bit lower in the colder months, the warmer weather in December, which seems to
 often, is almost as warm as the days in June. One thing I would add next time to check
 other aspects of weather, might be to also check on how often it rains in both months. 
 I would also add a query that measures hurricane possibilities in those months.
+
+
 
