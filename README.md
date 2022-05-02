@@ -13,7 +13,7 @@ they are comparable in both months when the weather is different.
 
 ## Results
 
-Three key differences in weather between June and December:
+###Three key differences in weather between June and December:
 	* The minimum temperature in June is low at 64 degrees Fahrenheit, but in December it is
 	much lower at 56 degrees Fahrenheit.
 	* The maximum temperature in June is 85 degrees Fahrenheit, and in December it
